@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://images.hdqwalls.com/download/planet-space-scifi-4k-dn-1920x1080.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+h1{
+    color: whitesmoke;
+    padding: 30px;
+}

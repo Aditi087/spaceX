@@ -1,0 +1,30 @@
+h4{
+    color: whitesmoke;
+}
+.btn{
+    margin: 4px;
+    background-color: transparent;
+    border-color: rgb(180, 180, 211);
+}
+
+
+
+#card{
+    padding: 10px;
+    margin: 20px;
+    background-color: rgba(1, 11, 28, 0.529);
+    color: whitesmoke;
+    border-color: transparent;
+    border-radius: 5px;
+    
+}
+#card p{
+    margin-bottom: 2px;
+}
+.img{
+    height: 200px;
+}
+.button-filter{
+    padding: 5px;
+    margin: 10px!important;
+}
